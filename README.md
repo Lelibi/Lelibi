@@ -1,7 +1,9 @@
 ## Seja bem-vindo ao meu perfil 😍
 🌱 I’m currently learning Data Enginnering / Atualmente estou aprendendo Engenharia de Dados
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lelibi&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lelibi&hide_progress=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lelibi&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lelibi&langs_count=8)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Le-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
